@@ -2,7 +2,17 @@
 
 ## Overview
 
-TODO: Write a project description
+Project Overview
+
+This project is an interactive bouncing balls simulation implemented in HTML, CSS, and JavaScript.
+
+The program demonstrates object-oriented programming concepts by using a Shape base class from which both Ball and EvilCircle inherit.
+
+Balls move and bounce off the edges of the screen.
+
+Balls change color when they collide with each other.
+
+A user-controlled EvilCircle moves around the screen using WASD keys to “eat” balls.
 
 ## Sources and Credits
 
@@ -15,10 +25,9 @@ permission from your instructor.
 
 A simple bulleted list below is sufficient. For example:
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+
+Sources I used
+
+- Past HW Assiments from old Shane classes.
+- Small bit of chat GPT, in order to figure out how to get the ball to be smooth
+- Google, For how to style the CSS, color questions and font questions
